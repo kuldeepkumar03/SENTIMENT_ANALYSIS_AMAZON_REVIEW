@@ -13,6 +13,6 @@ To run this sentiment analysis project, you need the following prerequisites:
 ## Output
 The sentiment analysis script will generate the following outputs:
 
-sentiment_analysis_results.csv: 
+newdata.xlsx: 
 
-A CSV file containing the sentiment analysis results, including the review texts and sentiment scores.
+A EXCEL file containing the sentiment analysis results, including the review texts and sentiment scores.
