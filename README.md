@@ -1,5 +1,9 @@
 # Sentiment Analysis for Amazon Star Review using VADER Sentiment Scoring
 
+## Dataset
+
+link to the dataset : https://drive.google.com/file/d/1tlAH0ClFt3P_vDftTIY5_Jfl-WYudZGT/view?usp=sharing
+
 ## Prerequisites
 To run this sentiment analysis project, you need the following prerequisites:
 
