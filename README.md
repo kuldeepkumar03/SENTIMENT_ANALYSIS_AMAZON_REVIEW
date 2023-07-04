@@ -9,3 +9,10 @@ To run this sentiment analysis project, you need the following prerequisites:
 * vaderSentiment (VADER Sentiment Analysis)
 * pandas (Data manipulation and analysis)
 * matplotlib (Data visualization)
+
+## Output
+The sentiment analysis script will generate the following outputs:
+
+sentiment_analysis_results.csv: 
+
+A CSV file containing the sentiment analysis results, including the review texts and sentiment scores.
