@@ -16,3 +16,6 @@ The sentiment analysis script will generate the following outputs:
 newdata.xlsx: 
 
 A EXCEL file containing the sentiment analysis results, including the review texts and sentiment scores.
+
+## Disclaimer
+This project is provided as-is without any warranty. The authors and contributors shall not be liable for any damages or losses arising from the use of this project. It is recommended to review and understand the code and its dependencies before running it in a production environment.
